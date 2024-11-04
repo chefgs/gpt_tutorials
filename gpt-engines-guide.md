@@ -86,7 +86,7 @@ The `o1` series is an experimental series aimed at further refining the balance 
 By aligning each GPT engine with the unique needs of your project, you can maximize efficiency, minimize costs, and choose the best fit for different aspects of application development, customer support, research, and productivity tools.
 
 ### GPT-4o with Canvas
-This is an advanced feature introduced by OpenAI to enhance collaboration between users and the AI model, particularly in writing and coding tasks. Canvas provides a separate workspace where users can interact with ChatGPT more dynamically, allowing for real-time editing, feedback, and iterative development of content.
+This is an advanced feature introduced by OpenAI to enhance collaboration between users and the AI model, particularly in writing and coding tasks. Canvas provides a separate workspace where users can interact with ChatGPT more dynamically, allowing for real-time editing, feedback, and iterative development of content.
 
 #### **Key Features of GPT-4o with Canvas:**
 
